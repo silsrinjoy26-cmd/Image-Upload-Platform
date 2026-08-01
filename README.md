@@ -180,9 +180,11 @@ http://localhost:5000
 Create a `.env` file inside the **backend** directory.
 
 ```env
-PORT=5000
+PORT=your_port_number
 
 MONGODB_URI=your_mongodb_connection_string
+
+JWT_SECRET=your_secret_key
 ```
 
 ---
@@ -256,33 +258,6 @@ screenshots/
 - Cloudinary Integration
 - AWS S3 Storage
 - Image Compression
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push to GitHub.
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request.
 
 ---
 
