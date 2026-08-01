@@ -1,0 +1,38 @@
+project/
+│
+├── backend/
+│   │
+│   ├── controllers/
+│   │   └── uploadController.js
+│   │
+│   ├── middleware/
+│   │   └── uploadMiddleware.js
+│   │
+│   ├── models/
+│   │   └── File.js
+│   │
+│   ├── routes/
+│   │   └── uploadRoutes.js
+│   │
+│   ├── uploads/
+│   │
+│   ├── .env
+│   ├── server.js
+│   └── package.json
+│
+└── frontend/
+    │
+    ├── src/
+    │   ├── api/
+    │   │   └── uploadApi.js
+    │   │
+    │   ├── components/
+    │   │   └── UploadForm.jsx
+    │   │
+    │   ├── pages/
+    │   │   └── Home.jsx
+    │   │
+    │   ├── App.jsx
+    │   └── main.jsx
+    │
+    └── package.json
