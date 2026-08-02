@@ -227,22 +227,7 @@ MongoDB
 
 # 📷 Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── upload.png
-└── success.png
-```
-
-```markdown
-![Home](screenshots/home.png)
-
-![Upload](screenshots/upload.png)
-```
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/66ee828d-07d3-4581-b28c-73f26e8bf4d2" />
 
 ---
 
